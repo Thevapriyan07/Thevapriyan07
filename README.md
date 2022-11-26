@@ -3,7 +3,7 @@
 
 
 Here are some ideas to get you started:
-
+🎓 I am Abishethvarman V currently pursuing Bsc. Special in Information Systems in [Sabaragamuwa University of Sri Lanka](https://www.sab.ac.lk/).
 - 🔭 I’m currently working on **Unicom Sd PVT.LTD**
 - 🌱 I’m currently learning **.NET, Angular**
 - 💬 Ask me about **Angular**
